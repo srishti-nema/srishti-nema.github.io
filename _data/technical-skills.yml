@@ -1,0 +1,23 @@
+- name: C
+  percentage: 70
+  color: danger
+
+- name: C++
+  percentage: 70
+  color: danger 
+
+- name: Java
+  percentage: 50 
+  color: danger
+
+- name: Python
+  percentage: 50
+  color: danger
+
+- name: HTML, CSS
+  percentage: 50
+  color: danger
+
+- name: Git and GitHub
+  percentage: 70
+  color: danger

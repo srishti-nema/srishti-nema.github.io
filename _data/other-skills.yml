@@ -1,0 +1,11 @@
+- name: Writing and Communication skills
+  percentage: 60
+  color: success
+
+- name: Editing and Content management
+  percentage: 60
+  color: success
+
+- name: Public Speaking
+  percentage: 50
+  color: success
