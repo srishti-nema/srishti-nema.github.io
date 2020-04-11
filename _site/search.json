@@ -1,0 +1,35 @@
+[
+  
+    {
+      "title"    : "Open Source Contributions- What and how?",
+      "category" : "",
+      "tags"     : "Open Source, Git, GitHub",
+      "url"      : "https://blog.glugmvit.com/opensource/",
+      "date"     : "2019-10-05 00:00:00 +0530"
+    } ,
+  
+    {
+      "title"    : "Linear Regression",
+      "category" : "",
+      "tags"     : "Machine Learning, Python",
+      "url"      : "https://blog.glugmvit.com/regression/",
+      "date"     : "2019-10-03 00:00:00 +0530"
+    } ,
+  
+    {
+      "title"    : "New AI, Old sexism- How biases remain in the future of tech",
+      "category" : "",
+      "tags"     : "Artificial Intelligence, Biases in AI",
+      "url"      : "https://medium.com/lean-in-women-in-tech-india/new-ai-old-sexism-how-biases-remain-in-the-future-of-technology-7c53fd88c110",
+      "date"     : "2019-08-23 00:00:00 +0530"
+    } ,
+  
+    {
+      "title"    : "Facial Recognition with Python",
+      "category" : "",
+      "tags"     : "Machine Learning, Python",
+      "url"      : "https://blog.glugmvit.com/face-recognition/",
+      "date"     : "2019-03-13 00:00:00 +0530"
+    } 
+  
+]
