@@ -3,7 +3,7 @@ title: Srishti Nema
 description: >- # this means to ignore newlines until "baseurl:"
   Computer Science student, programmer, curious learner, avid reader and novice writer. I like to wonder. A lot.
 baseurl: ""  # the subpath of your site, e.g. /blog
-url: "srishtinema.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 repository: YoussefRaafatNasry/portfolYOU
 
 
